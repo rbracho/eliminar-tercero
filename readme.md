@@ -1,2 +1,2 @@
 "# eliminar esto despues" 
-Esta modificaion se hizo en forma remota.
+Esta modificación se hizo en forma remota.
